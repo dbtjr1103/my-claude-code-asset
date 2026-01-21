@@ -1,9 +1,11 @@
-# 김재현의 Claude Code 설정
+# 정유석의 Claude Code 설정
 
 ## 개인 정보
-- 이름: 김재현 (Jaehyun Kim)
-- GitHub: jh941213
-- 회사: KTDS
+- 이름: 정유석 (Yuseok Jung)
+- 닉네임: Benjamin (벤자민)
+- GitHub: dbtjr1103
+- 회사: WIZnet
+- 직책: AI Engineer
 
 ## 핵심 마인드셋
 **Claude Code는 시니어가 아니라 똑똑한 주니어 개발자다.**
