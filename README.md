@@ -9,7 +9,7 @@ Boris Cherny(창시자), Affaan(해커톤 우승자), 70가지 팁을 참고하�
 다른 컴퓨터에서 Claude Code에게 이렇게 말하세요:
 
 ```
-https://github.com/jh941213/my-claude-code-asset 이 레포의 설정 파일들을 ~/.claude/에 복사해서 적용해줘
+https://github.com/dbtjr1103/my-claude-code-asset 이 레포의 설정 파일들을 ~/.claude/에 복사해서 적용해줘
 ```
 
 ## 수동 설치
